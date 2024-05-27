@@ -3,10 +3,9 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local Window = OrionLib:MakeWindow({Name = "🪐DEFENSE X HUB🪐", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest",introText = Carregando})
-
   OrionLib:MakeNotification({
 	Name = "LEIA ABAIXO!",
-	Content = "Hub da Saturno.Scripts",
+	Content = "Feito Por mim Salazar!",
 	Image = "rbxassetid://4483345998",
 	Time = 30
 })
